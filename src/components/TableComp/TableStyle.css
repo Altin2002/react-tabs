@@ -1,0 +1,14 @@
+.tabs-container{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tabs-list {
+    color: rgb(80, 80, 210);
+}
+
+.tabs-panel {
+    text-align: center;
+}
